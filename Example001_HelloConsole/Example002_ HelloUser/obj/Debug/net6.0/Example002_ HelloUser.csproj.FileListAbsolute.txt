@@ -1,0 +1,15 @@
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\bin\Debug\net6.0\Example002_ HelloUser.exe
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\bin\Debug\net6.0\Example002_ HelloUser.deps.json
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\bin\Debug\net6.0\Example002_ HelloUser.runtimeconfig.json
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\bin\Debug\net6.0\Example002_ HelloUser.dll
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\bin\Debug\net6.0\Example002_ HelloUser.pdb
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.csproj.AssemblyReference.cache
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.AssemblyInfoInputs.cache
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.AssemblyInfo.cs
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.dll
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\refint\Example002_ HelloUser.dll
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.pdb
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\Example002_ HelloUser.genruntimeconfig.cache
+C:\Users\House\Downloads\УЧЁБА\3. ОРАНЖЕВЫЙ\1 лекция. Знакомство с яз. прогр. С#\Example\Example001_HelloConsole\Example002_ HelloUser\obj\Debug\net6.0\ref\Example002_ HelloUser.dll
